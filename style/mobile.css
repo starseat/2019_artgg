@@ -1,0 +1,42 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.art-mobile-container {
+    margin: 0 auto;
+}
+
+.art-mobile-contents-box {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.art-mobile-header {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.art-mobile-content {
+    display: table;
+    text-align: center;
+    width: 100%;
+}
+
+.art-mobile-item {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+}
+
+.art-mobile-footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 400px) {
+    .art-mobile-item-img {
+        width: 100%;
+    }
+}

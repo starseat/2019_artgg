@@ -1,0 +1,43 @@
+.art-font-color-event {
+    color: #e54a1e;
+}
+
+.art-event-bg {
+    background-image: url('../imgs/event/event_bg.png');
+}
+
+.art-div-line {
+    border-color: #e54a1e;
+    background-color: #e54a1e;
+}
+
+.art-sub-event-img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.art-sub-content-event-4,
+.art-sub-content-event-5,
+.art-sub-content-event-8 {
+    margin-top: 150px !important
+}
+
+.art-sub-content-event-6,
+.art-sub-content-event-9 {
+    margin-top: 250px !important
+}
+
+a:link {
+    color: #e54a1e;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #e54a1e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e54a1e;
+    text-decoration: underline;
+}

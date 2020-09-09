@@ -1,0 +1,27 @@
+.art-font-color-artgg {
+    color: #dc0071;
+}
+
+.art-artgg-bg {
+    background-image: url('../imgs/artgg/artgg_bg.png');
+}
+
+.art-sub-content-artgg-3 {
+    margin-top: 150px !important
+}
+
+.art-sub-artgg-company-img {
+    width: 632px;
+    margin-top: 70px;
+}
+
+.art-sub-content-artgg-4,
+.art-sub-content-artgg-5,
+.art-sub-content-artgg-6 {
+    margin-top: 250px !important
+}
+
+.art-sub-artgg-company4-name {
+    width: 76px;
+    vertical-align: top;
+}

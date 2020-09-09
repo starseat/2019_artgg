@@ -1,0 +1,30 @@
+.art-font-color-campaign {
+    color: #f4b12c;
+}
+
+.art-campaign-bg {
+    background-image: url('../imgs/campaign/campaign_bg.png');
+}
+
+.art-div-line {
+    border-color: #f4b12c;
+    background-color: #f4b12c;
+}
+
+.art-sub-content-campaign-2,
+.art-sub-content-campaign-6 {
+    margin-top: 150px !important;
+}
+
+.art-sub-content-campaign-3 {
+    margin-top: 0px !important
+}
+
+.art-sub-content-campaign-4 {
+    margin-top: 250px !important
+}
+
+.art-sub-content-campaign-img {
+    margin-top: 70px;
+    width: 100%;
+}

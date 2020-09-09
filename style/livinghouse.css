@@ -1,0 +1,30 @@
+.art-font-color-livinghouse {
+    color: #36A039;
+}
+
+.art-livinghouse-bg {
+    background-image: url('../imgs/livinghouse/livinghouse_bg.png');
+}
+
+.art-div-line {
+    border-color: #36A039;
+    background-color: #36A039;
+}
+
+.art-sub-content-livinghouse-2 {
+    margin-top: 0 !important;
+}
+
+.art-sub-content-livinghouse-3 {
+    margin-top: 250px !important
+}
+
+.art-sub-content-livinghouse-img {
+    margin-top: 70px;
+    width: 100%;
+}
+
+.art-sub-livinghouse-traffic {
+    width: 64px;
+    vertical-align: top;
+}

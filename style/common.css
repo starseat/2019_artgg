@@ -1,0 +1,137 @@
+/*
+ * common - font
+ */
+
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+body,
+.art-font {
+    font-family: 'Nanum Square', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.art-font-regular {
+    font-style: normal;
+    font-weight: 400;
+}
+
+.art-font-bold {
+    font-style: bold;
+    font-weight: 700;
+}
+
+.art-font-extrabold {
+    font-style: bold;
+    font-weight: 1000;
+}
+
+.art-font-title {
+    font-size: 26px;
+}
+
+.art-font-subtitle {
+    font-size: 20px;
+}
+
+.art-font-bigtitle {
+    font-size: 38px;
+}
+
+
+/*
+ * common - background
+ */
+
+.art-bg {
+    min-width: 1280px;
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*
+ * common - contents
+ */
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.art-sub-container {
+    margin: 0 auto;
+    width: 858px;
+    padding-bottom: 40px;
+}
+
+.art-sub-header {
+    margin: 0 auto;
+    width: 858px;
+    height: 188px;
+    position: relative;
+}
+
+.art-sub-header-logo {
+    position: absolute;
+    bottom: 30px;
+    right: 0;
+}
+
+.art-sub-body {
+    margin: 0 auto;
+    width: 858px;
+    background-color: #ededed;
+}
+
+.art-sub-blank {
+    height: 113px;
+}
+
+.art-sub-poster {
+    text-align: center;
+    position: relative;
+}
+
+.art-sub-icon-box {
+    position: absolute;
+    top: 0;
+    left: 32px;
+}
+
+#art-sub-icon-back-move {
+    position: absolute;
+    display: none;
+    z-index: 99;
+}
+
+.art-sub-poster-img {
+    width: 632px;
+}
+
+.art-sub-contents {
+    padding-left: 113px;
+    padding-right: 113px;
+}
+
+.art-sub-contents section {
+    margin-top: 100px;
+}
+
+.art-div-text {
+    float: left;
+    padding-right: 10px;
+}
+
+.art-div-line {
+    border: 2px #dc0071 solid;
+    display: inline-block;
+    overflow: hidden;
+}

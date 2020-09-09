@@ -1,0 +1,42 @@
+.art-font-color-artist {
+    color: #6c4189;
+}
+
+.art-artist-bg {
+    background-image: url('../imgs/artist/artist_bg.png');
+}
+
+.art-div-line {
+    border-color: #6c4189;
+}
+
+.art-sub-content-artist-2 {
+    margin-top: 20px !important
+}
+
+.art-sub-content-artist-3 {
+    margin-top: 40px !important
+}
+
+.art-sub-content-artist-artwork {
+    margin-top: 14px;
+}
+
+.art-sub-content-artist-artwork-box,
+.art-sub-content-artist-artwork-box-end {
+    display: inline-block;
+}
+
+.art-sub-content-artist-artwork-box {
+    margin-right: 14px;
+}
+
+.art-sub-content-artist-artwork-img {
+    width: 142px;
+    height: 142px;
+}
+
+.art-sub-content-artist-artwork-designer {
+    margin-top: 10px;
+    text-align: center;
+}

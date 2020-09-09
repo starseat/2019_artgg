@@ -1,0 +1,37 @@
+body {
+    background-color: #f3f3f2;
+}
+
+.art-main-top-blank {
+    height: 158px;
+    /* 188px */
+}
+
+.art-main-container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.art-main-content {
+    min-width: 1280px;
+}
+
+.art-main-icon-box {
+    position: absolute;
+    top: 0;
+    left: -50px;
+}
+
+.art-main-item {
+    margin-right: 29px;
+    display: inline-block;
+}
+
+#art-main-item1-box {
+    position: relative;
+}
+
+#art-main-item2-box {
+    vertical-align: top;
+    margin-top: 28px;
+}

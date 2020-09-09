@@ -1,0 +1,56 @@
+.art-font-color-aboutlove {
+    color: #dc0071;
+}
+
+.art-aboutlove-bg {
+    background-image: url('../imgs/aboutlove/aboutlove_bg.png');
+}
+
+.art-div-line {
+    border-color: #dc0071;
+    background-color: #dc0071;
+}
+
+.art-sub-content-aboutlove-2,
+.art-sub-content-aboutlove-3 {
+    margin-top: 40px !important
+}
+
+.art-sub-content-aboutlove-4,
+.art-sub-content-aboutlove-6 {
+    margin-top: 0 !important
+}
+
+.art-sub-content-aboutlove-7 {
+    margin-top: 250px !important
+}
+
+.art-sub-content-aboutlove-8 {
+    margin-top: 100px !important
+}
+
+.art-sub-content-aboutlove-img {
+    margin-top: 70px;
+    width: 100%;
+}
+
+.art-sub-content-aboutlove-img-artwork {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+}
+
+.art-sub-content-aboutlove-img-artwork-text {
+    display: flex;
+}
+
+.art-sub-content-aboutlove-img-artwork-text.desc {
+    font-size: 12px;
+}
+
+.art-sub-aboutlove-traffic {
+    width: 64px;
+    vertical-align: top;
+}
